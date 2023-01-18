@@ -1,35 +1,99 @@
 
-# KEEPSL DOCUMENTATION
+## KEEPSL DOCUMENTATION
 
-<h4> SETUP TRADING ACCOUNTS </h4>
+<h4>
+<a href='/index.html#/?id=getting-started'>
+GETTING STARTED
+</a>
+</h4>
+
+<h4>
+<a href='/index.html#/?id=my-account-page'>
+MY ACCOUNT PAGE 
+</a>
+</h4>
+
+<h4> <a href='/index.html#/?id=setup-trading-account' > SETUP TRADING ACCOUNTS </a></h4>
   
-<h4 style="font-size:15px;margin-left:30px;padding:0px">SETTING UP ZERODHA ACCOUNT</h4>
+<h4 style="font-size:15px;margin-left:30px;padding:0px"> 
+
+<a href='/index.html#/?id=setting-up-zerodha-account' >SETTING UP ZERODHA ACCOUNT</a> 
+
+</h4>
   
-<h4 style="font-size:15px;margin-left:30px;padding:0px">SETTING UP ALICE BLUE ACCOUNT</h4>
-<h4 style="font-size:15px;margin-left:30px;padding:0px">SETTING UP ANGEL ONE ACCOUNT</h4>
-<h4 style="font-size:15px;margin-left:30px;padding:0px">SETTING UP FINVASIA ACCOUNT</h4>
+<h4 style="font-size:15px;margin-left:30px;padding:0px"> 
+<a href='/index.html#/?id=setting-up-alice-blue-account'>SETTING UP ALICE BLUE ACCOUNT </a>
 
-<h4>LIST OF ALL FEATURES AVAILABLE IN KEEPSL</h4>
-<h4 style="font-size:15px;margin-left:30px;padding:0px">SLIPPAGE</h4>
-<h4 style="font-size:15px;margin-left:30px;padding:0px">MTM STOP LOSS</h4>
-<h4 style="font-size:15px;margin-left:30px;padding:0px">MTM PROFIT</h4>
-<h4 style="font-size:15px;margin-left:30px;padding:0px">POSITIONAL SL TIME</h4>
-<h4 style="font-size:15px;margin-left:30px;padding:0px">MSLC</h4>
-<h4 style="font-size:15px;margin-left:30px;padding:0px">EXCLUDE DAYS</h4>
-<h4 style="font-size:15px;margin-left:30px;padding:0px">EXPIRY TYPE</h4>
-<h4 style="font-size:15px;margin-left:30px;padding:0px">STRIKE TYPE</h4>
-<h4 style="font-size:15px;margin-left:30px;padding:0px">PREMIUM BASED</h4>
-<h4 style="font-size:15px;margin-left:30px;padding:0px">OPTIONS DELTA BASED	</h4>
-<h4 style="font-size:15px;margin-left:30px;padding:0px">CREATING POSITIONS</h4>
+</h4>
+<h4 style="font-size:15px;margin-left:30px;padding:0px"> 
+<a href='/index.html#/?id=setting-up-angel-one-account'>
+SETTING UP ANGEL ONE ACCOUNT
+</a>
+</h4>
+<h4 style="font-size:15px;margin-left:30px;padding:0px">
+<a href='/index.html#/?id=setting-up-finvasia-account'>
+SETTING UP FINVASIA ACCOUNT
+</a>
+</h4>
 
-<h4>MY ACCOUNT PAGE</h4>
-<h4 style="font-size:15px;margin-left:30px;padding:0px">CREATE ACCOUNT</h4>
-<h4 style="font-size:15px;margin-left:30px;padding:0px">TRADING ACCOUNT LEVEL PNL SUBSCRIPTION</h4>
-<h4>REPORTS</h4>
-<h4>SAVED STRATEGIES</h4>
-<h4>CREATE STRATEGIES</h4>  
-<h4>STRATEGY TIMELINE</h4>
-<h4>ORDER EXECUTION WINDOW</h4>
+<h4>
+<a href='/index.html#/?id=list-of-all-features-available-in-keepsl'>
+ LIST OF ALL FEATURES AVAILABLE IN KEEPSL
+ </a>
+ </h4>
+<h4 style="font-size:15px;margin-left:30px;padding:0px">
+<a href='/index.html#/?id=slippage'>SLIPPAGE
+</a>
+</h4>
+
+
+<h4 style="font-size:15px;margin-left:30px;padding:0px">
+<a href='/index.html#/?id=mtm-stop-loss'>
+MTM STOP LOSS
+</a></h4>
+<h4 style="font-size:15px;margin-left:30px;padding:0px">
+<a href='/index.html#/?id=positional-sl-time'>
+POSITIONAL SL TIME
+</a>
+</h4>
+<h4 style="font-size:15px;margin-left:30px;padding:0px">
+<a href='/index.html#/?id=mslc'>
+MSLC </a>
+</h4>
+<h4 style="font-size:15px;margin-left:30px;padding:0px">
+<a href='/index.html#/?id=exclude-days'>
+EXCLUDE DAYS</a></h4>
+<h4 style="font-size:15px;margin-left:30px;padding:0px">
+<a href='/index.html#/?id=expiry-type'>
+EXPIRY TYPE
+</a>
+</h4>
+<h4 style="font-size:15px;margin-left:30px;padding:0px">
+<a href='/index.html#/?id=strike-type'>
+STRIKE TYPE</a></h4>
+<h4 style="font-size:15px;margin-left:30px;padding:0px">
+<a href='/index.html#/?id=premium-based'>
+PREMIUM BASED </a></h4>
+<h4 style="font-size:15px;margin-left:30px;padding:0px">
+<a href='/index.html#/?id=options-delta-based'>
+OPTIONS DELTA BASED	</a></h4>
+<h4 style="font-size:15px;margin-left:30px;padding:0px">
+<a href='/index.html#/?id=creating-positions'>
+CREATING POSITIONS</a></h4>
+
+
+<h4><a href='/index.html#/?id=reports'>
+REPORTS </a></h4>
+<h4> <a href='/index.html#/?id=saved-strategies'>SAVED STRATEGIES</a></h4>
+<h4> <a href='/index.html#/?id=strategy-timeline'> STRATEGY TIMELINE</a></h4>
+<h4><a href='/index.html#/?id=order-execution-window'>ORDER EXECUTION WINDOW </a></h4>
+<h4><a href='/index.html#/?id=oew-features'>OEW FEATURES</a></h4>
+<h4><a href='/index.html#/?id=edit-scheduled-orders'>Edit Scheduled Orders</a></h4>
+
+
+<h4><a href='/index.html#/?id=premium-based-order-changes'>Premium Based Order Changes</a></h4>
+<h4><a href='/index.html#/?id=telegram-notifications'>TELEGRAM NOTIFICATIONS</a></h4>
+
 <hr>
 <hr>
 
@@ -176,12 +240,14 @@
 # LIST OF ALL FEATURES AVAILABLE IN KEEPSL
 
 <h3>Advanced Features</h3>
-<h4>SLIPPAGE</h4>
+
+# SLIPPAGE
+
 <li>Slippage refers to when you place a stop loss limit order by the algo, it is the difference between Price and Trigger price.</li>
 
 <img src="img/img54.png" alt='img'><br>
 
-<h3> MTM STOP LOSS</h3>
+# MTM STOP LOSS 
 
 <p style="font-size:18px; font-family: times-new-roman;"><li>If you want to define predefined profits as per your risk management of the strategies, then you can use this feature. You can select the profit  in terms of % or in terms of points. Once the criteria is met, algo will automatically exit the strategy. This will allow you to capture the profit as per risk and reward or in case the market reverses from the current positions.
 </li></p>
@@ -189,19 +255,20 @@
 <img src="img/img55.png" alt='img'>
 
 
-<h3>POSITIONAL SL TIME </h3>
+# POSITIONAL SL TIME 
 <p><li>For overnight positions, If the user desires to keep stop loss, then he can opt for stop-loss in AMO/9.18am/9.30am.</li>
 </p>
 
 <img src="img/img56.png" alt='img'>
 
-<h3> MSLC </h3>
+# MSLC 
+
 <p>If strategy has Stop-loss for more than one leg, If one leg SL is hit, Other leg stop-loss will be moved to cost. This is mainly used where we place wide stop losses when the market conditions are volatile thus preventing huge losses.
 </p>
 <img src="img/img57.png" alt='img'>
 
 
-<h3> EXCLUDE DAYS </h3>
+# EXCLUDE DAYS 
 <p>
 Users can opt if the next day is a trading holiday. He can exclude strategies not to execute if tomorrow is a trading holiday. <br>
 <br>
@@ -217,7 +284,7 @@ For example, STBT strategy not to trigger in case of a trading holiday to avoid 
 
 <img src="img/img59.png" alt='img'>
 
-<h3>Prepone on holiday</h3>
+# Prepone on holiday
 <p>
 Strategy will be advanced 1-day before any trading holiday. Ex:  Assume EXP - 1 strategy and WED is holiday, if you select this option strategy will be executed on TUE.
 </p>
@@ -230,7 +297,7 @@ Strategy will be advanced 1-day before any trading holiday. Ex:  Assume EXP - 1 
 <p><li>Options Premium Range: Now you can specify MIN and MAX values, so that strike will be selected only if premium is above minimum and strike which is closer to MAX value. This way you don't end up taking trades where the premium is lower than your expectation.</li></p>
 <p><li>This is available at a position level.</li></p>
 
-<h4> EXPIRY TYPE </h4>
+# EXPIRY TYPE 
 <p>Weekly expiry is the current week expiry</p>
 <li>For example</li>
 <p>Present day is 19 Sept 22 , then current week expiry will choose the next thu expiry that is 22 Sept 22.</p>
@@ -252,7 +319,7 @@ Strategy will be advanced 1-day before any trading holiday. Ex:  Assume EXP - 1 
 
 <img src="img/img63.png" alt='img'>
 
-<h3>STRIKE TYPE</h3>
+# STRIKE TYPE
 
 <h3>At The Money/ In The Money/ Out of The Money</h3>
 <p style="margin-left:15px;">
@@ -412,6 +479,8 @@ If you want to sell or buy based on the DELTA of the strike, choose strike type 
 
 <img src="img/img76.png" alt='img'>
 
+
+<hr> <hr>
 
 # Premium Based Order Changes
 <p>
