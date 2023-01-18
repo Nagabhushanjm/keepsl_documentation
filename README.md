@@ -2,9 +2,9 @@
 ## KEEPSL DOCUMENTATION
 
 <h4>
-<a href='/index.html#/?id=getting-started'>
+
 GETTING STARTED
-</a>
+
 </h4>
 
 <h4> MY ACCOUNT PAGE </h4>
