@@ -2,7 +2,7 @@
 ## KEEPSL DOCUMENTATION
 
 <h4>
-<a href='/index.html#/?id=getting-started'>
+<a href='id=getting-started'>
 GETTING STARTED
 </a>
 </h4>
