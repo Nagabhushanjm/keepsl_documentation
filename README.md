@@ -1,98 +1,86 @@
 
 ## KEEPSL DOCUMENTATION
 
-<h4>
-<a href='/index.html#/?id=getting-started'>
-GETTING STARTED
-</a>
-</h4>
+<h4>GETTING STARTED</h4>
 
-<h4>
-<a href='/index.html#/?id=my-account-page'>
-MY ACCOUNT PAGE 
-</a>
-</h4>
+<h4> MY ACCOUNT PAGE </h4>
 
-<h4> <a href='/index.html#/?id=setup-trading-account' > SETUP TRADING ACCOUNTS </a></h4>
+<h4>  SETUP TRADING ACCOUNTS </h4>
   
-<h4 style="font-size:15px;margin-left:30px;padding:0px"> 
-
-<a href='/index.html#/?id=setting-up-zerodha-account' >SETTING UP ZERODHA ACCOUNT</a> 
+<h4 style="font-size:15px;margin-left:30px;padding:0px"> SETTING UP ZERODHA ACCOUNT 
 
 </h4>
   
-<h4 style="font-size:15px;margin-left:30px;padding:0px"> 
-<a href='/index.html#/?id=setting-up-alice-blue-account'>SETTING UP ALICE BLUE ACCOUNT </a>
+<h4 style="font-size:15px;margin-left:30px;padding:0px"> SETTING UP ALICE BLUE ACCOUNT </h4>
 
-</h4>
 <h4 style="font-size:15px;margin-left:30px;padding:0px"> 
-<a href='/index.html#/?id=setting-up-angel-one-account'>
+
 SETTING UP ANGEL ONE ACCOUNT
-</a>
+
 </h4>
 <h4 style="font-size:15px;margin-left:30px;padding:0px">
-<a href='/index.html#/?id=setting-up-finvasia-account'>
+
 SETTING UP FINVASIA ACCOUNT
-</a>
+
 </h4>
 
 <h4>
-<a href='/index.html#/?id=list-of-all-features-available-in-keepsl'>
+
  LIST OF ALL FEATURES AVAILABLE IN KEEPSL
  </a>
  </h4>
 <h4 style="font-size:15px;margin-left:30px;padding:0px">
-<a href='/index.html#/?id=slippage'>SLIPPAGE
-</a>
+SLIPPAGE
+
 </h4>
 
 
 <h4 style="font-size:15px;margin-left:30px;padding:0px">
-<a href='/index.html#/?id=mtm-stop-loss'>
+
 MTM STOP LOSS
-</a></h4>
+</h4>
 <h4 style="font-size:15px;margin-left:30px;padding:0px">
-<a href='/index.html#/?id=positional-sl-time'>
+
 POSITIONAL SL TIME
-</a>
+
 </h4>
 <h4 style="font-size:15px;margin-left:30px;padding:0px">
-<a href='/index.html#/?id=mslc'>
-MSLC </a>
+
+MSLC
 </h4>
 <h4 style="font-size:15px;margin-left:30px;padding:0px">
-<a href='/index.html#/?id=exclude-days'>
-EXCLUDE DAYS</a></h4>
+
+EXCLUDE DAYS</h4>
 <h4 style="font-size:15px;margin-left:30px;padding:0px">
-<a href='/index.html#/?id=expiry-type'>
+
 EXPIRY TYPE
-</a>
+
 </h4>
 <h4 style="font-size:15px;margin-left:30px;padding:0px">
-<a href='/index.html#/?id=strike-type'>
-STRIKE TYPE</a></h4>
+
+STRIKE TYPE</h4>
 <h4 style="font-size:15px;margin-left:30px;padding:0px">
-<a href='/index.html#/?id=premium-based'>
-PREMIUM BASED </a></h4>
+
+PREMIUM BASED </h4>
 <h4 style="font-size:15px;margin-left:30px;padding:0px">
-<a href='/index.html#/?id=options-delta-based'>
-OPTIONS DELTA BASED	</a></h4>
+
+OPTIONS DELTA BASED	</h4>
 <h4 style="font-size:15px;margin-left:30px;padding:0px">
-<a href='/index.html#/?id=creating-positions'>
-CREATING POSITIONS</a></h4>
+
+CREATING POSITIONS</h4>
 
 
-<h4><a href='/index.html#/?id=reports'>
-REPORTS </a></h4>
-<h4> <a href='/index.html#/?id=saved-strategies'>SAVED STRATEGIES</a></h4>
-<h4> <a href='/index.html#/?id=strategy-timeline'> STRATEGY TIMELINE</a></h4>
-<h4><a href='/index.html#/?id=order-execution-window'>ORDER EXECUTION WINDOW </a></h4>
-<h4><a href='/index.html#/?id=oew-features'>OEW FEATURES</a></h4>
-<h4><a href='/index.html#/?id=edit-scheduled-orders'>Edit Scheduled Orders</a></h4>
+<h4>
+REPORTS </h4>
+<h4> SAVED STRATEGIES</h4>
+<h4> STRATEGY TIMELINE</h4>
+<h4>ORDER EXECUTION WINDOW </h4>
+<h4>OEW FEATURES</h4>
+<h4>Edit Scheduled Orders</h4>
 
 
-<h4><a href='/index.html#/?id=premium-based-order-changes'>Premium Based Order Changes</a></h4>
-<h4><a href='/index.html#/?id=telegram-notifications'>TELEGRAM NOTIFICATIONS</a></h4>
+<h4>Premium Based Order Changes</h4>
+<h4>TELEGRAM NOTIFICATIONS</h4>
 
 <hr>
 <hr>
