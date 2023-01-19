@@ -18,4 +18,43 @@
 ![imglog](img/img73.PNG ':id=img')
 
 
-<hr> 
+
+
+## Edit Scheduled Orders
+
+<ul>
+<h3>Edit Scheduled Order Entry/ Exit Time</h3>
+<li><p id:p>Assume you have an exit scheduled tomorrow 11 am but want to close off at 10:30 am instead. 
+</p></li>
+<li><p id:p>Same is true for Open orders.</p></li>
+<li><p id:p>Now you can use OEW Edit Schedule feature to modify scheduled time for that particular execution.</p></li>
+</ul>
+
+![imglog](img/img74.PNG ':id=img')
+
+
+
+## Retry/Terminate/Open/SquareOff
+
+<ul>
+<li> <p id:p> Open Now (Entry)—>Instant Entry will be done for  any particular strategy in one click.<p></li>
+<li> <p id:p> Retry Failed Legs --> Retry will be done for  any particular strategy in one click for missed/rejected/failed order kegs.</p></li>
+
+<li> <p id:p> Terminate will stop further actions on the selected strategy. </p></li>
+<li> <p id:p>Square Off—> will sq off open orders.</p> </li>
+<li><p id:p>Open Now (Entry)—>Instant Entry will be done for  any particular strategy in one click for  missed/rejected orders etc. Use them and  let us  know  the feedback.</p></li>
+</ul>
+
+![imglog](img/img76.PNG ':id=img')
+
+
+## Premium Based Order Changes 
+
+<p id:p>
+If NO suitable strike is found for a configured value, order will be marked Rejected. You can use the Order Executions Window to retry this leg. If you update the Order Leg limit price, the updated price will be taken for retrying.
+
+</p>
+
+
+<hr><hr>
+

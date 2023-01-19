@@ -20,11 +20,11 @@
 
 - [Saved Strategies](saved_stregies.md)
 
+- [Share Strategies](share_strategies.md)
+
 - [Strategy Timeline](strategy_timeline.md)
 
 - [Order Execution Window](oew.md)
-
-- [OEW Features](oew_features.md)
 
 - [Telegram Notifications](telegram_notification.md)
 
